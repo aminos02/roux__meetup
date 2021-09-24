@@ -1,7 +1,7 @@
 {
   "name": "roux---meetup",
   "version": "1.0.0",
-  "description": "Exercise files for my course Building a Website with Node.js and Express",
+  "description": "Building a Website with Node.js and Express",
   "main": "server.js",
   "engine": {
     "node": "14.17.3"
