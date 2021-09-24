@@ -6,7 +6,7 @@ const cookieSession = require('cookie-session');
 const createError = require('http-errors');
 const bodyParser = require('body-parser');
 const compression = require('compression');
-const helmet = req;
+const helmet = require('helmet');
 
 var debug = require('debug')('aminos');
 
